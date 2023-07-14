@@ -71,7 +71,7 @@ python 03_eval.py --cfg config_run.json
 ## Build
 
 - Build `Thesis/main.tex` -> `Thesis.pdf`
-- Build `Presentation/MingyuJeon_Lab_Meeting_20230602/main.tex` -> `Presentation/MingyuJeon_Lab_Meeting_20230602.pdf`
+- Build `Presentation/20230602/TeX/main.tex` -> `Presentation/20230602/MingyuJeon_Lab_Meeting_20230602.pdf`
 
 ## Compress PDF
 - [PDF24 Tools](https://www.pdf24.org)
